@@ -1,0 +1,9 @@
+﻿  ConsoleApplication1.cpp
+  LinearRegression.cpp
+  MerkelMain.cpp
+C:\Users\user\Desktop\MerkelBotDelivery - 2\MerkelBot\ConsoleApplication1\MerkelMain.cpp(15,9): warning C4101: 'input': unreferenced local variable
+C:\Users\user\Desktop\MerkelBotDelivery - 2\MerkelBot\ConsoleApplication1\MerkelMain.cpp(128,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Desktop\MerkelBotDelivery - 2\MerkelBot\ConsoleApplication1\MerkelMain.cpp(173,38): warning C4101: 'e': unreferenced local variable
+C:\Users\user\Desktop\MerkelBotDelivery - 2\MerkelBot\ConsoleApplication1\MerkelMain.cpp(217,34): warning C4101: 'e': unreferenced local variable
+  Generating Code...
+  ConsoleApplication1.vcxproj -> C:\Users\user\Desktop\MerkelBotDelivery - 2\MerkelBot\Debug\ConsoleApplication1.exe

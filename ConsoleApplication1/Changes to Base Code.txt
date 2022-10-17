@@ -1,0 +1,9 @@
+MerkelMain.h:
+- made the functions public so the bot can access them
+
+MerkelMain.cpp:
+- removed the while loop accepting user input in init so that it can interact with the bot
+
+ConsoleApplication1.cpp:
+- changed the main function to run the bot
+
